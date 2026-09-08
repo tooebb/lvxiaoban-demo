@@ -1,0 +1,12 @@
+# 原始材料不进入公开演示仓库
+*.docx
+*.pdf
+~$*
+
+# 本地工具与临时文件
+.codex/
+.agents/
+node_modules/
+docx_render/
+docx_unpacked/
+
