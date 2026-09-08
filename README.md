@@ -2,6 +2,12 @@
 
 这是一个无需后端即可运行的响应式产品先导页，包含大理试点的旅行需求填写、行程生成、快速调整、预算展示和“小文”问答演示。
 
+## 在线访问
+
+公开演示地址：<https://tooebb.github.io/lvxiaoban-demo/>
+
+代码仓库：<https://github.com/tooebb/lvxiaoban-demo>
+
 ## 本地运行
 
 可以直接双击 `index.html` 打开。为了获得一致的浏览器体验，也可以在本目录启动任意静态文件服务器，例如：
